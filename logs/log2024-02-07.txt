@@ -1,0 +1,104 @@
+2024-02-07 00:03:48,205 - Test_Signup.py:[20] - [INFO] - Test Sign up started
+2024-02-07 00:03:48,368 - BasePage.py:[37] - [INFO] -  entering  i nthe elementname_Xpathvalue ---Anupriya
+2024-02-07 00:03:48,439 - BasePage.py:[37] - [INFO] -  entering  i nthe elementphone_Xpathvalue ---63096321988
+2024-02-07 00:03:48,520 - BasePage.py:[37] - [INFO] -  entering  i nthe elementemail_Xpathvalue ---fvfg@gmail.com
+2024-02-07 00:03:48,579 - BasePage.py:[37] - [INFO] -  entering  i nthe elementcity_Xpathvalue ---Amsterdam
+2024-02-07 00:03:48,639 - BasePage.py:[37] - [INFO] -  entering  i nthe elementusername_Xpathvalue ---Anu10
+2024-02-07 00:03:48,775 - BasePage.py:[37] - [INFO] -  entering  i nthe elementpassword_Xpathvalue ---BePositive
+2024-02-07 00:03:48,873 - BasePage.py:[50] - [INFO] -  Selecting on the elementcountry_Xpathvalue ---Netherlands
+2024-02-07 00:03:48,936 - BasePage.py:[23] - [INFO] - clicking onthe elementsubmit_Xpath
+2024-02-07 00:03:54,940 - Test_Signup.py:[25] - [INFO] - Test Sign up ended
+2024-02-07 00:04:05,632 - Test_Signup.py:[20] - [INFO] - Test Sign up started
+2024-02-07 00:04:05,701 - BasePage.py:[37] - [INFO] -  entering  i nthe elementname_Xpathvalue ---Anupriya
+2024-02-07 00:04:05,729 - BasePage.py:[37] - [INFO] -  entering  i nthe elementphone_Xpathvalue ---63096321988
+2024-02-07 00:04:05,760 - BasePage.py:[37] - [INFO] -  entering  i nthe elementemail_Xpathvalue ---fvfg@gmail.com
+2024-02-07 00:04:05,778 - BasePage.py:[37] - [INFO] -  entering  i nthe elementcity_Xpathvalue ---Amsterdam
+2024-02-07 00:04:05,796 - BasePage.py:[37] - [INFO] -  entering  i nthe elementusername_Xpathvalue ---Anu10
+2024-02-07 00:04:05,832 - BasePage.py:[37] - [INFO] -  entering  i nthe elementpassword_Xpathvalue ---BePositive
+2024-02-07 00:04:06,145 - BasePage.py:[50] - [INFO] -  Selecting on the elementcountry_Xpathvalue ---Netherlands
+2024-02-07 00:04:06,499 - BasePage.py:[23] - [INFO] - clicking onthe elementsubmit_Xpath
+2024-02-07 00:04:12,504 - Test_Signup.py:[25] - [INFO] - Test Sign up ended
+2024-02-07 20:55:06,094 - Test_carWale.py:[14] - [INFO] - Test new car started
+2024-02-07 20:55:12,593 - Test_carWale.py:[14] - [INFO] - Test new car started
+2024-02-07 20:57:11,681 - Test_carWale.py:[14] - [INFO] - Test new car started
+2024-02-07 20:57:12,040 - BasePage.py:[65] - [INFO] -  mouse hove  on the elementNewcar_Xpath
+2024-02-07 20:57:16,810 - Test_carWale.py:[14] - [INFO] - Test new car started
+2024-02-07 20:57:17,679 - BasePage.py:[65] - [INFO] -  mouse hove  on the elementNewcar_Xpath
+2024-02-07 20:59:21,189 - Test_carWale.py:[14] - [INFO] - Test new car started
+2024-02-07 20:59:21,749 - BasePage.py:[65] - [INFO] -  mouse hove  on the elementNewcar_Xpath
+2024-02-07 20:59:22,190 - BasePage.py:[23] - [INFO] - clicking onthe elementFindNewCar_Xpath
+2024-02-07 20:59:26,195 - Test_carWale.py:[18] - [INFO] - Test new car ended
+2024-02-07 20:59:30,127 - Test_carWale.py:[14] - [INFO] - Test new car started
+2024-02-07 20:59:30,918 - BasePage.py:[65] - [INFO] -  mouse hove  on the elementNewcar_Xpath
+2024-02-07 20:59:31,044 - BasePage.py:[23] - [INFO] - clicking onthe elementFindNewCar_Xpath
+2024-02-07 20:59:35,047 - Test_carWale.py:[18] - [INFO] - Test new car ended
+2024-02-07 21:18:20,906 - Test_carWale.py:[14] - [INFO] - Test new car started
+2024-02-07 21:18:22,221 - BasePage.py:[65] - [INFO] -  mouse hove  on the elementNewcar_Xpath
+2024-02-07 21:18:22,839 - BasePage.py:[23] - [INFO] - clicking onthe elementFindNewCar_Xpath
+2024-02-07 21:18:26,843 - Test_carWale.py:[18] - [INFO] - Test new car ended
+2024-02-07 21:18:30,689 - Test_carWale.py:[14] - [INFO] - Test new car started
+2024-02-07 21:18:31,266 - BasePage.py:[65] - [INFO] -  mouse hove  on the elementNewcar_Xpath
+2024-02-07 21:19:17,233 - Test_carWale.py:[15] - [INFO] - Test new car started
+2024-02-07 21:19:17,726 - BasePage.py:[65] - [INFO] -  mouse hove  on the elementNewcar_Xpath
+2024-02-07 21:19:18,221 - BasePage.py:[23] - [INFO] - clicking onthe elementFindNewCar_Xpath
+2024-02-07 21:19:22,223 - Test_carWale.py:[19] - [INFO] - Test new car ended
+2024-02-07 21:19:26,677 - Test_carWale.py:[15] - [INFO] - Test new car started
+2024-02-07 21:19:27,480 - BasePage.py:[65] - [INFO] -  mouse hove  on the elementNewcar_Xpath
+2024-02-07 21:19:27,647 - BasePage.py:[23] - [INFO] - clicking onthe elementFindNewCar_Xpath
+2024-02-07 21:19:31,652 - Test_carWale.py:[19] - [INFO] - Test new car ended
+2024-02-07 21:32:33,530 - Test_carWale.py:[25] - [INFO] - Test selecting new car started
+2024-02-07 21:32:37,531 - Test_carWale.py:[33] - [INFO] - Test selecting new car ended
+2024-02-07 21:32:49,544 - Test_carWale.py:[25] - [INFO] - Test selecting new car started
+2024-02-07 21:32:53,547 - Test_carWale.py:[33] - [INFO] - Test selecting new car ended
+2024-02-07 21:33:02,729 - Test_carWale.py:[25] - [INFO] - Test selecting new car started
+2024-02-07 21:33:06,731 - Test_carWale.py:[33] - [INFO] - Test selecting new car ended
+2024-02-07 21:33:18,306 - Test_carWale.py:[25] - [INFO] - Test selecting new car started
+2024-02-07 21:33:22,309 - Test_carWale.py:[33] - [INFO] - Test selecting new car ended
+2024-02-07 21:33:27,067 - Test_carWale.py:[25] - [INFO] - Test selecting new car started
+2024-02-07 21:33:31,071 - Test_carWale.py:[33] - [INFO] - Test selecting new car ended
+2024-02-07 21:33:34,132 - Test_carWale.py:[25] - [INFO] - Test selecting new car started
+2024-02-07 21:33:38,135 - Test_carWale.py:[33] - [INFO] - Test selecting new car ended
+2024-02-07 21:33:41,322 - Test_carWale.py:[25] - [INFO] - Test selecting new car started
+2024-02-07 21:33:45,323 - Test_carWale.py:[33] - [INFO] - Test selecting new car ended
+2024-02-07 21:33:49,939 - Test_carWale.py:[25] - [INFO] - Test selecting new car started
+2024-02-07 21:33:53,943 - Test_carWale.py:[33] - [INFO] - Test selecting new car ended
+2024-02-07 21:51:53,893 - Test_carWale.py:[25] - [INFO] - Test selecting new car started
+2024-02-07 21:51:56,762 - Test_carWale.py:[25] - [INFO] - Test selecting new car started
+2024-02-07 21:52:05,361 - Test_carWale.py:[25] - [INFO] - Test selecting new car started
+2024-02-07 21:52:16,244 - Test_carWale.py:[25] - [INFO] - Test selecting new car started
+2024-02-07 21:52:35,953 - Test_carWale.py:[25] - [INFO] - Test selecting new car started
+2024-02-07 21:52:36,975 - BasePage.py:[65] - [INFO] -  mouse hove  on the elementNewcar_Xpath
+2024-02-07 21:52:51,636 - Test_carWale.py:[25] - [INFO] - Test selecting new car started
+2024-02-07 21:52:52,010 - BasePage.py:[65] - [INFO] -  mouse hove  on the elementNewcar_Xpath
+2024-02-07 21:53:01,374 - Test_carWale.py:[25] - [INFO] - Test selecting new car started
+2024-02-07 21:53:01,652 - BasePage.py:[65] - [INFO] -  mouse hove  on the elementNewcar_Xpath
+2024-02-07 21:53:01,831 - BasePage.py:[23] - [INFO] - clicking onthe elementFindNewCar_Xpath
+2024-02-07 21:53:05,836 - Test_carWale.py:[34] - [INFO] - Test selecting new car ended
+2024-02-07 21:53:08,723 - Test_carWale.py:[25] - [INFO] - Test selecting new car started
+2024-02-07 21:53:09,019 - BasePage.py:[65] - [INFO] -  mouse hove  on the elementNewcar_Xpath
+2024-02-07 21:58:31,590 - Test_carWale.py:[26] - [INFO] - Test selecting new car started
+2024-02-07 21:58:32,358 - BasePage.py:[65] - [INFO] -  mouse hove  on the elementNewcar_Xpath
+2024-02-07 21:58:33,014 - BasePage.py:[23] - [INFO] - clicking onthe elementFindNewCar_Xpath
+2024-02-07 21:58:37,015 - Test_carWale.py:[35] - [INFO] - Test selecting new car ended
+2024-02-07 21:58:49,047 - Test_carWale.py:[26] - [INFO] - Test selecting new car started
+2024-02-07 21:58:49,352 - BasePage.py:[65] - [INFO] -  mouse hove  on the elementNewcar_Xpath
+2024-02-07 21:58:50,021 - BasePage.py:[23] - [INFO] - clicking onthe elementFindNewCar_Xpath
+2024-02-07 21:58:54,026 - Test_carWale.py:[35] - [INFO] - Test selecting new car ended
+2024-02-07 21:58:58,368 - Test_carWale.py:[26] - [INFO] - Test selecting new car started
+2024-02-07 21:58:59,255 - BasePage.py:[65] - [INFO] -  mouse hove  on the elementNewcar_Xpath
+2024-02-07 21:58:59,502 - BasePage.py:[23] - [INFO] - clicking onthe elementFindNewCar_Xpath
+2024-02-07 21:59:03,505 - Test_carWale.py:[35] - [INFO] - Test selecting new car ended
+2024-02-07 21:59:06,335 - Test_carWale.py:[26] - [INFO] - Test selecting new car started
+2024-02-07 21:59:07,020 - BasePage.py:[65] - [INFO] -  mouse hove  on the elementNewcar_Xpath
+2024-02-07 21:59:48,614 - Test_carWale.py:[26] - [INFO] - Test selecting new car started
+2024-02-07 21:59:48,930 - BasePage.py:[65] - [INFO] -  mouse hove  on the elementNewcar_Xpath
+2024-02-07 21:59:49,593 - BasePage.py:[23] - [INFO] - clicking onthe elementFindNewCar_Xpath
+2024-02-07 21:59:53,598 - Test_carWale.py:[35] - [INFO] - Test selecting new car ended
+2024-02-07 22:00:04,711 - Test_carWale.py:[26] - [INFO] - Test selecting new car started
+2024-02-07 22:00:05,102 - BasePage.py:[65] - [INFO] -  mouse hove  on the elementNewcar_Xpath
+2024-02-07 22:00:13,919 - Test_carWale.py:[26] - [INFO] - Test selecting new car started
+2024-02-07 22:00:14,529 - BasePage.py:[65] - [INFO] -  mouse hove  on the elementNewcar_Xpath
+2024-02-07 22:00:21,708 - Test_carWale.py:[26] - [INFO] - Test selecting new car started
+2024-02-07 22:00:22,751 - BasePage.py:[65] - [INFO] -  mouse hove  on the elementNewcar_Xpath
+2024-02-07 22:00:22,880 - BasePage.py:[23] - [INFO] - clicking onthe elementFindNewCar_Xpath
+2024-02-07 22:00:26,883 - Test_carWale.py:[35] - [INFO] - Test selecting new car ended

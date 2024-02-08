@@ -1,0 +1,20 @@
+2024-02-07 00:00:55,752 - Test_Signup.py:[20] - [INFO] - Test Sign up started
+2024-02-07 00:00:56,374 - BasePage.py:[37] - [INFO] -  entering  i nthe elementname_Xpathvalue ---Anupriya
+2024-02-07 00:00:56,443 - BasePage.py:[37] - [INFO] -  entering  i nthe elementphone_Xpathvalue ---63096321988
+2024-02-07 00:00:56,520 - BasePage.py:[37] - [INFO] -  entering  i nthe elementemail_Xpathvalue ---fvfg@gmail.com
+2024-02-07 00:00:56,608 - BasePage.py:[37] - [INFO] -  entering  i nthe elementcity_Xpathvalue ---Amsterdam
+2024-02-07 00:00:56,673 - BasePage.py:[37] - [INFO] -  entering  i nthe elementusername_Xpathvalue ---Anu10
+2024-02-07 00:00:56,759 - BasePage.py:[37] - [INFO] -  entering  i nthe elementpassword_Xpathvalue ---BePositive
+2024-02-07 00:00:56,844 - BasePage.py:[50] - [INFO] -  Selecting on the elementcountry_Xpathvalue ---Netherlands
+2024-02-07 00:00:56,910 - BasePage.py:[23] - [INFO] - clicking onthe elementsubmit_Xpath
+2024-02-07 00:01:02,916 - Test_Signup.py:[25] - [INFO] - Test Sign up ended
+2024-02-07 00:01:30,776 - Test_Signup.py:[20] - [INFO] - Test Sign up started
+2024-02-07 00:01:30,936 - BasePage.py:[37] - [INFO] -  entering  i nthe elementname_Xpathvalue ---Anupriya
+2024-02-07 00:01:30,976 - BasePage.py:[37] - [INFO] -  entering  i nthe elementphone_Xpathvalue ---63096321988
+2024-02-07 00:01:30,995 - BasePage.py:[37] - [INFO] -  entering  i nthe elementemail_Xpathvalue ---fvfg@gmail.com
+2024-02-07 00:01:31,052 - BasePage.py:[37] - [INFO] -  entering  i nthe elementcity_Xpathvalue ---Amsterdam
+2024-02-07 00:01:31,068 - BasePage.py:[37] - [INFO] -  entering  i nthe elementusername_Xpathvalue ---Anu10
+2024-02-07 00:01:31,102 - BasePage.py:[37] - [INFO] -  entering  i nthe elementpassword_Xpathvalue ---BePositive
+2024-02-07 00:01:31,407 - BasePage.py:[50] - [INFO] -  Selecting on the elementcountry_Xpathvalue ---Netherlands
+2024-02-07 00:01:32,204 - BasePage.py:[23] - [INFO] - clicking onthe elementsubmit_Xpath
+2024-02-07 00:01:38,212 - Test_Signup.py:[25] - [INFO] - Test Sign up ended
