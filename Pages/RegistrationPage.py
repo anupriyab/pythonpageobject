@@ -1,8 +1,11 @@
+import allure
+from allure_commons.types import AttachmentType
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.select import Select
 
 from Pages.BasePage import BasePage
 from utilities import ConfigReader
+import allure_pytest
 
 
 class Registration(BasePage):
@@ -18,5 +21,8 @@ class Registration(BasePage):
         self.enterValue("city_Xpath", city)
         self.enterValue("username_Xpath", username)
         self.enterValue("password_Xpath", password)
-        self.select("country_Xpath",country)
+        self.select("country_Xpath", country)
         self.click("submit_Xpath")
+        assert 1 == 2
+        # Whenever test pass it adds screenshot to the report
+        # allure.attach(self.driver.get_screenshot_as_png(),name="fillform",attachment_type=AttachmentType.PNG)

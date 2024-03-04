@@ -1,7 +1,7 @@
 import time
 
 from Pages.Carwale_Homepage import Homepage
-from TestCases.Test_Base import Test_BaseTest
+from Testcases.Test_Base import Test_BaseTest
 import logging
 
 from utilities import DataProvider

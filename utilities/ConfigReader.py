@@ -7,4 +7,3 @@ def readconfig(section, key):
     return config.get(section, key)
 
 
-print(readconfig("locator", "username"))
